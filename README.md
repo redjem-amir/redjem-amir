@@ -1,6 +1,7 @@
 <h2>👋 Hello, I'm Amir</h2>
 
 <h3>👨‍💻 Front-end Developer</h3>
+
 ```
 import React, { useState } from "react";
 
@@ -22,4 +23,3 @@ export default function AboutMe() {
 
   return null;
 }
-```
