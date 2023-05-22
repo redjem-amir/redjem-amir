@@ -2,7 +2,7 @@
 
 <h3>👨‍💻 Front-end Developer</h3>
 
-```
+```javascript
 import React, { useState } from "react";
 
 export default function AboutMe() {
@@ -23,3 +23,4 @@ export default function AboutMe() {
 
   return null;
 }
+``` 
