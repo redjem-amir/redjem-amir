@@ -1,4 +1,4 @@
-<h2>👋 Hello, I'm Amir</h2>
+<h1>👋 Hello, I'm Amir</h1>
 
 <h3>👨‍💻 Front-end Developer</h3>
 
