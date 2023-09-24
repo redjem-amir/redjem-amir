@@ -1,6 +1,6 @@
 <h1>👋 Hello, I'm Amir</h1>
 
-<h3>👨‍💻 Front-end Developer</h3>
+<h3>👨‍💻 Full-Stack Developer - NextJS / SpringBoot / ExpressJS / FireBase / Supabase</h3>
 
 ```javascript
 import React, { useState } from "react";
@@ -13,8 +13,8 @@ export default function AboutMe() {
     "scss",
   ]);
   const [tools, setTools] = useState([
-    "redux",
     "reactjs",
+    "nextjs",
     "jest",
     "react-testing-library",
   ]);
