@@ -12,6 +12,10 @@
  📧 **Email** : [a.redjem@outlook.com](mailto:a.redjem@outlook.com)
  💼 **LinkedIn** : [Amir Redjem](https://www.linkedin.com/in/amir-redjem-963049230/)
 
+<div align="center" style="color: red; font-weight: bold;">
+⚠️ Tous mes projets sont privés et en constante évolution. ⚠️
+</div>
+
 ## 📈 Mes activités sur GitHub
 
 [![REDJEM-Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=REDJEM-Amir&theme=react-dark&area=true&hide_border=true)](https://github.com/REDJEM-Amir/github-readme-activity-graph)
