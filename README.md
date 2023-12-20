@@ -31,7 +31,6 @@
 ### 🚀 Langages de programmation
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 ### 🌐 Développement Frontend
@@ -43,7 +42,8 @@
 ### 🌿 Développement Backend
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir" alt="Elixir" />
+  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs" alt="NestJS" />
 </p>
 
 ### 📱 Développement Mobile
