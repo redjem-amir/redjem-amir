@@ -12,10 +12,6 @@
  📧 **Email** : [a.redjem@outlook.com](mailto:a.redjem@outlook.com)
  💼 **LinkedIn** : [Amir Redjem](https://www.linkedin.com/in/amir-redjem-963049230/)
 
-<div align="center" style="color: red; font-weight: bold;">
-⚠️ Tous mes projets sont privés et en constante évolution. ⚠️
-</div>
-
 ## 📈 Mes activités sur GitHub
 
 [![REDJEM-Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=REDJEM-Amir&theme=react-dark&area=true&hide_border=true)](https://github.com/REDJEM-Amir/github-readme-activity-graph)
@@ -28,20 +24,20 @@
 
 ## 🛠️ Mes compétences techniques
 
-### 🚀 Langages de programmation
+### 🚀 Langages de programmation logiciel
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
-### 🌐 Développement Frontend
+### 🌐 Développement web Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
 </p>
 
-### 🌿 Développement Backend
+### 🌿 Développement web Backend
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Symfony-000?style=for-the-badge&logo=symfony&logoColor=fff" alt="Symfony" />
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir" alt="Elixir" />
   <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs" alt="NestJS" />
 </p>
