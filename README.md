@@ -8,9 +8,9 @@
 
 ## 📬 Me contacter
 
- 🌐 **Portfolio** : [arecode.fr](https://www.arecode.fr)
- 📧 **Email** : [a.redjem@outlook.com](mailto:a.redjem@outlook.com)
- 💼 **LinkedIn** : [Amir Redjem](https://www.linkedin.com/in/amir-redjem-963049230/)
+🌐 **Portfolio** : <a href="https://www.arecode.fr" target="_blank">arecode.fr</a>
+📧 **Email** : <a href="mailto:a.redjem@outlook.com" target="_blank">a.redjem@outlook.com</a>
+💼 **LinkedIn** : <a href="https://www.linkedin.com/in/amir-redjem-963049230/" target="_blank">Amir Redjem</a>
 
 ## 📈 Mes activités sur GitHub
 
