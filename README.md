@@ -32,25 +32,25 @@
 ### 🌐 Développement web Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=springboot&logoColor=fff" alt="NextJS" />
 </p>
 
 ### 🌿 Développement web Backend
 <p>
-  <img src="https://img.shields.io/badge/Symfony-000?style=for-the-badge&logo=symfony&logoColor=fff" alt="Symfony" />
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir" alt="Elixir" />
   <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff" alt="Spring Boot" />
 </p>
 
-### 📱 Développement Mobile
+### 🔥 Bases de données
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
 </p>
 
-### 🔥 Bases de données et Authentification
+### 📡 Serveur
 <p>
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff" alt="Debian" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff" alt="Ubuntu" />
 </p>
 
 Merci de visiter mon profil ! N'hésitez pas à jeter un œil à mes repos ou à me contacter si vous avez des questions ou des opportunités de collaboration. À bientôt ! 🚀
