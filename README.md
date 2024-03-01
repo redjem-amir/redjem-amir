@@ -24,15 +24,10 @@
 
 ## 🛠️ Mes compétences techniques
 
-### 🚀 Langages de programmation logiciel
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-</p>
-
 ### 🌐 Développement web Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=springboot&logoColor=fff" alt="NextJS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="NextJS" />
 </p>
 
 ### 🌿 Développement web Backend
