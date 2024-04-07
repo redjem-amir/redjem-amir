@@ -12,16 +12,6 @@
 📧 **Email** : <a href="mailto:a.redjem@outlook.com" target="_blank">a.redjem@outlook.com</a>
 💼 **LinkedIn** : <a href="https://www.linkedin.com/in/amir-redjem-963049230/" target="_blank">Amir Redjem</a>
 
-## 📈 Mes activités sur GitHub
-
-[![REDJEM-Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=REDJEM-Amir&theme=react-dark&area=true&hide_border=true)](https://github.com/REDJEM-Amir/github-readme-activity-graph)
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=REDJEM-Amir&theme=react&hide_border=&locale=fr&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak stats">
-  </a>
-</p>
-
 ## 🛠️ Mes compétences techniques
 
 ### 🌐 Développement web Frontend
