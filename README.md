@@ -8,7 +8,7 @@
 
 ## 📬 Me contacter
 
-🌐 **Portfolio** : <a href="https://www.arecode.fr" target="_blank">arecode.fr</a>
+🌐 **Portfolio** : <a href="https://arecode.fr" target="_blank">arecode.fr</a>
 📧 **Email** : <a href="mailto:a.redjem@outlook.com" target="_blank">a.redjem@outlook.com</a>
 💼 **LinkedIn** : <a href="https://www.linkedin.com/in/amir-redjem-963049230/" target="_blank">Amir Redjem</a>
 
