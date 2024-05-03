@@ -1,43 +1,34 @@
-<div align="center">
-  
-# Bonjour ! 👋 Je m'appelle Amir !
+# Hi, I'm Amir! 👋
 
-🔥 Développeur passionné par la technologie, spécialisé dans la création d'applications web modernes et performantes.
+Developer passionate about technology, specializing in the creation of modern and efficient web applications.
 
-🌟 Fort d'une expérience solide dans diverses technologies, je suis toujours à la recherche de nouveaux défis et opportunités pour continuer à apprendre et à grandir.
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/245583998095458305?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/245583998095458305)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/245583998095458305)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/245583998095458305)](https://dev.discordprofiles.me/openspotify/245583998095458305)
 
-## 📬 Me contacter
+![Top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=REDJEM-Amir&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true)
 
-🌐 **Portfolio** : <a href="https://arecode.fr" target="_blank">arecode.fr</a>
-📧 **Email** : <a href="mailto:a.redjem@outlook.com" target="_blank">a.redjem@outlook.com</a>
-💼 **LinkedIn** : <a href="https://www.linkedin.com/in/amir-redjem-963049230/" target="_blank">Amir Redjem</a>
+## 🚀 About Me
 
-## 🛠️ Mes compétences techniques
+- 🔭 Currently obtaining a master's degree in web engineering.
+- 🌐 Portfolio <a href="https://arecode.fr" target="_blank">arecode.fr</a>
+- 📧 Email <a href="mailto:a.redjem@outlook.com" target="_blank">a.redjem@outlook.com</a>
+- 💼 LinkedIn <a href="https://www.linkedin.com/in/amir-redjem-963049230/" target="_blank">REDJEM Amir</a>
 
-### 🌐 Développement web Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="NextJS" />
-</p>
+## FrontEnd
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,swift)]([https://skillicons.dev](https://skillicons.dev))
 
-### 🌿 Développement web Backend
-<p>
-  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff" alt="Spring Boot" />
-</p>
+## BackEnd
+[![My Skills](https://skillicons.dev/icons?i=nestjs,rust,spring,symfony,laravel)](httpst://skillicons.dev)
 
-### 🔥 Bases de données
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
-</p>
+## Database
+[![My Skills](https://skillicons.dev/icons?i=postgresql,supabase,firebase)](https://skillicons.dev)
 
-### 📡 Serveur
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff" alt="Debian" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff" alt="Ubuntu" />
-</p>
+## Server
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,redhat,docker,kubernetes,nginx,swarm)](https://skillicons.dev)
 
-Merci de visiter mon profil ! N'hésitez pas à jeter un œil à mes repos ou à me contacter si vous avez des questions ou des opportunités de collaboration. À bientôt ! 🚀
+## Environment
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,gitlab,jenkins,auth0)](https://skillicons.dev)
 
-</div>
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
