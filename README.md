@@ -20,7 +20,7 @@ Developer passionate about technology, specializing in the creation of modern an
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,swift)]([https://skillicons.dev](https://skillicons.dev))
 
 ## BackEnd
-[![My Skills](https://skillicons.dev/icons?i=nestjs,rust,spring,symfony,laravel)](httpst://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,fastapi,rust,spring,symfony)](httpst://skillicons.dev)
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=postgresql,supabase,firebase)](https://skillicons.dev)
