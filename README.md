@@ -2,11 +2,6 @@
 
 Developer passionate about technology, specializing in the creation of modern and efficient web applications.
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/245583998095458305?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/245583998095458305)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/245583998095458305)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/245583998095458305)](https://dev.discordprofiles.me/openspotify/245583998095458305)
-
 ![Top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=REDJEM-Amir&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true)
 
 ## 🚀 About Me
