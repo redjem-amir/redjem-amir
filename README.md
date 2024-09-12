@@ -12,15 +12,15 @@ Developer passionate about technology, specializing in the creation of modern an
 - 💼 LinkedIn <a href="https://www.linkedin.com/in/amir-redjem-963049230/" target="_blank">REDJEM Amir</a>
 
 ## FrontEnd
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs)]([https://skillicons.dev](https://skillicons.dev))
+[![My Skills](https://skillicons.dev/icons?i=nextjs)]([https://skillicons.dev](https://skillicons.dev))
 
 ## BackEnd
-[![My Skills](https://skillicons.dev/icons?i=nestjs,spring,fastapi,laravel)](httpst://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,spring,express)](httpst://skillicons.dev)
 
 ## DevOps
-[![My Skills](https://skillicons.dev/icons?i=redhat,docker,kubernetes,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redhat,docker,kubernetes,terraform,ansible)](https://skillicons.dev)
 
 ## Environment
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,jenkins,auth0)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,jenkins)](https://skillicons.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
