@@ -15,7 +15,7 @@ Developer passionate about technology, specializing in the creation of modern an
 [![My Skills](https://skillicons.dev/icons?i=nextjs)]([https://skillicons.dev](https://skillicons.dev))
 
 ## BackEnd
-[![My Skills](https://skillicons.dev/icons?i=nestjs,spring,express)](httpst://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,spring,golang)](httpst://skillicons.dev)
 
 ## DevOps
 [![My Skills](https://skillicons.dev/icons?i=redhat,docker,kubernetes,terraform,ansible)](https://skillicons.dev)
