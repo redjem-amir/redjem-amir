@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2b2b2b&height=230&section=header&text=AMIR%20REDJEM&fontSize=74&fontColor=ffffff&fontAlign=50&fontAlignY=44&desc=Ing%C3%A9nieur%20DevOps%20%C2%B7%20Plateforme%20%26%20Infrastructure&descSize=19&descAlign=50&descAlignY=64&animation=fadeIn" width="100%" alt="Amir Redjem, ingénieur DevOps">
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2b2b2b&height=230&section=header&text=AMIR%20REDJEM&fontSize=74&fontColor=ffffff&fontAlign=50&fontAlignY=44&desc=Ingenieur%20DevOps%20-%20Plateforme%20et%20Infrastructure&descSize=19&descAlign=50&descAlignY=64&animation=fadeIn" width="100%" alt="Amir Redjem, ingénieur DevOps">
 <img src="https://img.shields.io/badge/Statut-En_production-0cce6b?style=flat-square&labelColor=000000" alt="En production">
 <img src="https://img.shields.io/badge/Marseille-FR-000000?style=flat-square&labelColor=000000&color=000000" alt="Marseille, FR">
 <img src="https://img.shields.io/badge/%E2%96%B2-amirredjem.com-000000?style=flat-square&labelColor=000000&color=000000" alt="amirredjem.com">
